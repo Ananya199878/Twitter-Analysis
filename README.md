@@ -11,3 +11,4 @@ The Real time Twitter Analytics Dashboard project developed using Power BI desig
 2. Step 2: Using Power Query Editor Data transfornation is done . Null and missing values were not taken into account and the data types of the relevant column were transformed to ensure accuracy.
 3. Step 3: Developed visualization using advance filtering and Top N filtering and also used DAX for creating measures
 4. Step 4: Developed and designed interactive dashboard incorporating slicers and buttons for navigation.
+5. Step 6: Created custom column for media content using media views and media engagement.
